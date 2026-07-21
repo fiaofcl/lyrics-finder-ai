@@ -1,3 +1,1 @@
 #  lyrics finder ai
-#now
-
